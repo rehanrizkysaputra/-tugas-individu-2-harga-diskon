@@ -1,0 +1,3 @@
+﻿  diskon.cpp
+C:\Users\ASUS\source\repos\diskon\diskon\diskon.cpp(15,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  diskon.vcxproj -> C:\Users\ASUS\source\repos\diskon\x64\Debug\diskon.exe
